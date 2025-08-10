@@ -13,3 +13,6 @@ Sorteo aleatorio: Al hacer clic en el botón "Sortear amigo", se selecciona un n
 Interfaz responsiva: Diseñada para adaptarse a diferentes tamaños de pantalla, con un diseño atractivo y fácil de usar.
 Mensajes claros: Los resultados se muestran en una lista dedicada, con un estilo destacado para el resultado del sorteo.
 
+Para visualizar o renderizar el código puedes instalar la extensión Live Server y dar click derecho en el código HTML "Open With Live Server"
+
+Espero esta información te sea útil :) 
